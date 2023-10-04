@@ -17,6 +17,8 @@ npx mutasim
 ```
 This command will display information about me ;)
 
+<img width="450" alt="Screenshot" src="https://github.com/mutasim77/npx-introduction-card/assets/96326525/725101ec-4906-443c-94f3-d60b7857a934">
+
 ### Just for Fun 🦋
 Remember, this NPX Card is meant to be fun! It's a playful and interactive way 
 to connect with others and share information about yourself. 
