@@ -1,0 +1,25 @@
+{
+  "name": "mutasim",
+  "version": "1.1.0",
+  "description": "npx card, personal info",
+  "license": "MIT",
+  "author": {
+    "name": "Mutasim",
+    "email": "qmutasim77@gmail.com",
+    "url": "https:mutasim.top"
+  },
+  "source": "index.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "bin": "./bin.js",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
